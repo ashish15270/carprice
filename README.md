@@ -1,6 +1,8 @@
 # CarPricePrediction
 This is a Machine Learning app created to predict the price of a used car.This project takes the parameters of a used car like: Company name, Model name, Year of Purchase, Fuel Type and Number of Kilometers it has been driven.
 
+Deployed at : https://carprice-ashish.herokuapp.com/
+
 https://user-images.githubusercontent.com/65803794/166153989-32368214-b70e-4758-bb25-2e2aaf5d141c.mp4
 
 This app is created using the following
